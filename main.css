@@ -1,0 +1,63 @@
+/* ******************************
+        Difault Values
+
+Font: pasifico(only for logo), sans serif
+
+Colors:
+1    impirial Primer: #222f3e;
+2    wild caribeen green: #1dd1a1;
+3    light gray: #fbfbfb;
+4    Gray: #ccc;
+
+****************************/
+
+/*---------------------------
+        Basic setup
+---------------------------*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+}
+
+li{
+        list-style: none;
+        display: inline-block;
+
+}
+
+a{
+        text-decoration: none;
+}
+
+.container{
+        max-width: 1400px;
+        margin: 0 auto;
+        background-color: #fff;
+}
+
+/*---------------------------
+        Header
+---------------------------*/
+
+/*font-family: 'Ubuntu Mono', monospace;*/
+
+body{
+        background-color: #fbfbfb;
+}
+
+.page-header{
+        background-color: #222f3e;
+        color: #fff;
+        font-family: "Pacifico" , cursive;
+        padding-left: 70px;
+        margin: 0;
+        margin-left: 0;
+
+}
+
