@@ -89,3 +89,8 @@ body{
         padding: 20px;       
 }
 
+/*header img*/
+
+.header-image {
+        background-image: url(../);
+}
