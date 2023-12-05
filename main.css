@@ -56,8 +56,30 @@ body{
         color: #fff;
         font-family: "Pacifico" , cursive;
         padding-left: 70px;
-        margin: 0;
-        margin-left: 0;
+        margin-right: -15px;
+        margin-left: -15px;
+        margin-bottom: 50px;
 
 }
 
+.page-header span{
+        color: #1dd1a1;
+}
+
+  /* nav-menu */ 
+
+.nav-menu{
+        padding: 10px 0 10px 120px;
+}
+
+.nav-menu a{
+        color: #ccc;
+        font-size: 18px;
+        text-transform: uppercase;
+}
+
+.nav-menu a:hover {
+        color: #222f3e;
+        
+
+}
