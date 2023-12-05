@@ -49,10 +49,12 @@ a{
 
 body{
         background-color: #fbfbfb;
+        font-family: 'Ubuntu Mono', monospace;
 }
 
 .page-header{
         background-color: #222f3e;
+        padding-bottom:13px ;
         color: #fff;
         font-family: "Pacifico" , cursive;
         padding-left: 70px;
@@ -80,6 +82,10 @@ body{
 
 .nav-menu a:hover {
         color: #222f3e;
-        
-
+        font-weight: 700;
 }
+
+.nav-menu li{
+        padding: 20px;       
+}
+
